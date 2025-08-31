@@ -11,7 +11,7 @@ export default function Home() {
       <a href="https://evakillenberg.com">
         <div className="flex flex-col w-full hover:scale-101 transition-transform duration-600 ease-in-out border-4 border-black">
           <div className="w-full bg-evayellow text-white text-left p-2 text-xl">
-            2020
+            2020 Personal Site
           </div>
           <Image
             src="/v2020-header.png"
