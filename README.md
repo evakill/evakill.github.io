@@ -1,4 +1,4 @@
-Welcome to my personal homepage!
+Welcome to my personal homepage! This page hosts links to my current & archived portfolio sites.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) and deployed using Github Pages. 
 
