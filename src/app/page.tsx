@@ -22,7 +22,7 @@ export default function Home() {
         </div>
       </a>
       <h2 className="text-3xl">The Archive</h2>
-      <a href="https://evakillenberg.com">
+      <a href="http://evakillenberg.herokuapp.com">
         <div className="flex flex-col w-full hover:scale-101 transition-transform duration-600 ease-in-out border-4 border-black">
           <div className="w-full bg-evayellow text-white text-left p-2 text-xl">
             2020 Personal Site
